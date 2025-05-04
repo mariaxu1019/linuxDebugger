@@ -1,6 +1,6 @@
 # Linux Debugger
 
-This project is a minimal Linux debugger built from scratch using C++ and CMake, along with the Linenoise and libelfin dependencies.
+This project is a minimal Linux debugger built from scratch using C++, along with the Linenoise and libelfin dependencies.
 
 ## 🔧 Features
 
